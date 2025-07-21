@@ -80,10 +80,10 @@ Once the project is installed and Sass is set up, you can compile the styles and
    ![Home page screenshot.](README-assets/index.jpeg)
    
     #### Gallery Page:
-    ![Gallery screenshot.](README-assets/gallery.jpeg)
-
+   ![Gallery screenshot.](README-assets/gallery.jpeg)
+   
     #### Contact Page:
-    ![Contact page screenshot.](README-assets/contact.jpeg)
+   ![Contact page screenshot.](README-assets/contact.jpeg)
 
 ## File Structure
 
