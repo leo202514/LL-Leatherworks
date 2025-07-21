@@ -74,15 +74,15 @@ Once the project is installed and Sass is set up, you can compile the styles and
 2.  **Open the HTML Files**:
     You can now open any of the HTML files (`index.html`, `gallery.html`, or `contact.html`) directly in your web browser. Simply navigate to the file in your file explorer and double-click it, or drag and drop it into your browser.
 
-    ### Screenshots of the Project in Action:
+### Screenshots of the Project in Action:
 
-    #### Home Page:
+#### Home Page:
    ![Home page screenshot.](README-assets/index.jpeg)
    
-    #### Gallery Page:
+#### Gallery Page:
    ![Gallery screenshot.](README-assets/gallery.jpeg)
    
-    #### Contact Page:
+#### Contact Page:
    ![Contact page screenshot.](README-assets/contact.jpeg)
 
 ## File Structure
