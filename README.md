@@ -139,7 +139,7 @@ This project is designed with ease of customization in mind.
 
 This project was developed by:
 
-* ** [Leonard Laing](https://github.com/leo202514)
+* [Leonard Laing](https://github.com/leo202514)
 
 *(If there were other contributors, list them here with their respective links.)*
 
