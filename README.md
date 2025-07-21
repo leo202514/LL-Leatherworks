@@ -77,8 +77,8 @@ Once the project is installed and Sass is set up, you can compile the styles and
     ### Screenshots of the Project in Action:
 
     #### Home Page:
-    *(Please imagine a screenshot here showing the top part of the `index.html` page with the header, profile image, navigation, and the "Sheaths For Life" section, including the table.)*
-
+   ![Home page screenshot.](README-assets/index.jpeg)
+   
     #### Gallery Page:
     *(Please imagine a screenshot here showing a grid of images from the `gallery.html` page, displaying various leather items, knives, and the axe.)*
 
