@@ -80,10 +80,10 @@ Once the project is installed and Sass is set up, you can compile the styles and
    ![Home page screenshot.](README-assets/index.jpeg)
    
     #### Gallery Page:
-    *(Please imagine a screenshot here showing a grid of images from the `gallery.html` page, displaying various leather items, knives, and the axe.)*
+    ![Gallery screenshot.](README-assets/gallery.jpeg)
 
     #### Contact Page:
-    *(Please imagine a screenshot here showing the `contact.html` page with the "Contact Us" heading, the introductory paragraph, and the contact form with input fields and radio buttons.)*
+    ![Contact page screenshot.](README-assets/contact.jpeg)
 
 ## File Structure
 
