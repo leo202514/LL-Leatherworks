@@ -39,10 +39,9 @@ To set up and run this project locally, please follow these steps:
 1.  **Clone the Repository**:
     Begin by cloning the project repository to your local machine using Git:
     ```bash
-    git clone [https://github.com/your-username/LL-Leather-Works.git](https://github.com/your-username/LL-Leather-Works.git)
+    git clone https://github.com/leo202514/LL-Leather-Works.git
     ```
-    (Note: Replace `your-username` with the actual GitHub username if this project is hosted publicly.)
-
+   
 2.  **Navigate to the Project Directory**:
     Change your current directory to the newly cloned project folder:
     ```bash
